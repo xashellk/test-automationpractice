@@ -1,0 +1,38 @@
+starter/stepdefinitions/PaymentStepDefinitions.java
+ starter.stepdefinitions.PaymentStepDefinitions
+starter/search/SearchForm.java
+ starter.search.SearchForm
+starter/register/DoRegister.java
+ starter.register.DoRegister
+starter/register/RegisterForm.java
+ starter.register.RegisterForm
+starter/register/ValidEmailForm.java
+ starter.register.ValidEmailForm
+starter/search/SearchResultList.java
+ starter.search.SearchResultList
+starter/stepdefinitions/SearchOnDuckDuckGoStepDefinitions.java
+ starter.stepdefinitions.SearchOnDuckDuckGoStepDefinitions
+starter/stepdefinitions/LoginStepDefinitions.java
+ starter.stepdefinitions.LoginStepDefinitions
+starter/payment/PaymentForm.java
+ starter.payment.PaymentForm
+starter/search/SearchResult.java
+ starter.search.SearchResult
+starter/CucumberTestSuite.java
+ starter.CucumberTestSuite
+starter/stepdefinitions/RegisterStepDefinitions.java
+ starter.stepdefinitions.RegisterStepDefinitions
+starter/login/DoLogin.java
+ starter.login.DoLogin
+starter/navigation/DuckDuckGoHomePage.java
+ starter.navigation.DuckDuckGoHomePage
+starter/payment/DoPayment.java
+ starter.payment.DoPayment
+starter/search/SearchFor.java
+ starter.search.SearchFor
+starter/login/LoginForm.java
+ starter.login.LoginForm
+starter/matchers/StringContainsIgnoringCase.java
+ starter.matchers.StringContainsIgnoringCase
+starter/navigation/NavigateTo.java
+ starter.navigation.NavigateTo
